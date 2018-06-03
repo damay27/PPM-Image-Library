@@ -1,4 +1,4 @@
-//Daniel May - ppm Image Loader Class
+//Daniel May - PPM Image Loader Class
 
 #pragma once
 #include <string>
